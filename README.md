@@ -20,3 +20,5 @@
 }
 Теперь можно получить JSON`ы имеющихся сканеров или измерений, послав GET запрос на адресс "http://localhost:8080/sensors" или "http://localhost:8080/measurements"
 
+
+
